@@ -1,60 +1,38 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## Hi there! 👋
 
-###
+I'm **Kareem Okeil**, a passionate **Web Developer** and a **Telecommunications Engineering Student**. I love creating responsive websites that provide an engaging user experience.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareemokeil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemokeil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+Based in **Egypt**, I'm currently pursuing my studies in telecommunications engineering while honing my web development skills. I enjoy blending technology and creativity to build functional and aesthetic websites.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Skills & Technologies
 
-###
+html,css,js,react,nodejs,git,github,bootstrap,tailwind
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-</div>
+## Top Projects
 
-###
+- [**Food Lover**](https://github.com/kareemokeil/food-lover) - A food-themed website built with HTML and CSS. ![Stars](https://img.shields.io/github/stars/kareemokeil/food-lover) ![Language](https://img.shields.io/badge/language-HTML-blue)  
+- [**Portfolio**](https://github.com/kareemokeil/portfolio) - My personal portfolio showcasing my work. ![Stars](https://img.shields.io/github/stars/kareemokeil/portfolio) ![Language](https://img.shields.io/badge/language-CSS-blue)  
+- [**CRUDS**](https://github.com/kareemokeil/CRUDS) - A simple CRUD application built with JavaScript. ![Stars](https://img.shields.io/github/stars/kareemokeil/CRUDS) ![Language](https://img.shields.io/badge/language-JavaScript-blue)  
+- [**GitHub Profile Config**](https://github.com/kareemokeil/kareemokeil) - Configuration files for my GitHub profile. ![Stars](https://img.shields.io/github/stars/kareemokeil/kareemokeil) ![Language](https://img.shields.io/badge/language-Config-blue)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## GitHub Stats
 
-###
+🏆 **Public Repositories:** 4  
+👥 **Followers:** 0  
+👤 **Following:** 1  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemokeil&show_icons=true&theme=radical)
 
-<br clear="both">
+## Recent Activity
 
-<img src="https://raw.githubusercontent.com/kareemokeil/kareemokeil/output/snake.svg" alt="Snake animation" />
+- **Created** [CRUDS](https://github.com/kareemokeil/CRUDS)  
+- **Updated** [Food Lover](https://github.com/kareemokeil/food-lover)  
+- **Completed** [Portfolio](https://github.com/kareemokeil/portfolio)  
+- **Configured** GitHub profile settings
 
-###
+## 🏆 Certifications
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kareemokeil/count.svg?"  />
-</div>
+The Complete Full-Stack Web Development Bootcamp – Udemy, 2025
+Completed 61.5 hours of in-depth training covering front-end and back-end technologies including HTML, CSS, JavaScript, Node.js, Express, MongoDB, and more.
 
-###
