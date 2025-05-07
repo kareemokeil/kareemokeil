@@ -10,13 +10,6 @@ Based in **Egypt**, I'm currently pursuing my studies in telecommunications engi
 
 html,css,js,react,nodejs,git,github,bootstrap,tailwind
 
-## Top Projects
-
-- [**Food Lover**](https://github.com/kareemokeil/food-lover) - A food-themed website built with HTML and CSS. ![Stars](https://img.shields.io/github/stars/kareemokeil/food-lover) ![Language](https://img.shields.io/badge/language-HTML-blue)  
-- [**Portfolio**](https://github.com/kareemokeil/portfolio) - My personal portfolio showcasing my work. ![Stars](https://img.shields.io/github/stars/kareemokeil/portfolio) ![Language](https://img.shields.io/badge/language-CSS-blue)  
-- [**CRUDS**](https://github.com/kareemokeil/CRUDS) - A simple CRUD application built with JavaScript. ![Stars](https://img.shields.io/github/stars/kareemokeil/CRUDS) ![Language](https://img.shields.io/badge/language-JavaScript-blue)  
-- [**GitHub Profile Config**](https://github.com/kareemokeil/kareemokeil) - Configuration files for my GitHub profile. ![Stars](https://img.shields.io/github/stars/kareemokeil/kareemokeil) ![Language](https://img.shields.io/badge/language-Config-blue)
-
 ## GitHub Stats
 
 🏆 **Public Repositories:** 4  
